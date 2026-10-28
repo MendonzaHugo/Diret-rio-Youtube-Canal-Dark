@@ -16,6 +16,13 @@ Estas páginas são a referência final. Não puderam ser abertas diretamente na
 - [Uso justo no YouTube](https://support.google.com/youtube/answer/9783148)
 - [Diretrizes da Comunidade](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/)
 
+## Telas do YouTube Studio
+
+- Aba **Ganhos** de 4 canais suspensos e lista de contas do operador (capturas de tela, out/2026), documentadas em `casos/2026-rede-historias/`. Fonte da redação oficial dos motivos de suspensão em `08-desmonetizacao-e-recuperacao.md`.
+- [Canal rejeitado para monetização — perguntas frequentes](https://support.google.com/youtube/answer/9235730)
+- [AdSense para YouTube desativado por tráfego inválido](https://support.google.com/youtube/answer/14340193)
+- [Tráfego inválido nos seus vídeos](https://support.google.com/youtube/answer/10285842)
+
 ## Imprensa
 
 - [TechCrunch — YouTube clarifies policies around AI slop and upsetting videos (20/07/2026)](https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/)

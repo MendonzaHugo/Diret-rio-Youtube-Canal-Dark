@@ -22,6 +22,7 @@ diretrizes/
   05-direitos-autorais.md            Content ID, strikes de direitos autorais, uso justo
   06-diretrizes-anunciantes.md       Diretrizes de conteúdo adequado para anunciantes (ícone amarelo)
   07-diretrizes-comunidade.md        Diretrizes da comunidade e sistema de avisos/strikes
+  08-desmonetizacao-e-recuperacao.md Suspensão do YPP, contestação, canal relacionado, AdSense desativado
   linha-do-tempo.md                  Histórico datado das mudanças de política
   fontes.md                          Todas as fontes, com classificação de confiabilidade
 
@@ -34,6 +35,11 @@ analises/
 templates/
   checklist-pre-publicacao.md        Checklist rápido antes de subir cada vídeo
   analise-de-canal.md                Roteiro para auditar um canal inteiro antes do pedido de YPP
+
+casos/
+  2026-rede-historias/               Caso real: rede de canais de histórias suspensa do YPP
+    diagnostico.md                   Mapa da rede, linha do tempo, causas e recomendação por canal
+    plano-reconstrucao.md            Plano em fases para recuperar o canal de origem
 ```
 
 ## Legenda de confiança
@@ -43,6 +49,7 @@ Cada afirmação nos arquivos de `diretrizes/` traz uma marca:
 | Marca | Significado |
 |---|---|
 | ✅ **Oficial** | Texto ou resumo direto de página oficial do YouTube/Google |
+| ✅ **Studio** | Texto copiado de telas reais do YouTube Studio |
 | 🟢 **Consolidado** | Regra conhecida há anos e confirmada por várias fontes independentes |
 | 🟡 **Secundário** | Reportado por imprensa/blogs de forma consistente, sem acesso ao texto oficial |
 | ⚠️ **Não verificado** | Fonte única, contraditória ou de blog de marketing — usar com cautela |
@@ -54,6 +61,7 @@ Cada afirmação nos arquivos de `diretrizes/` traz uma marca:
 - **Vai começar um canal?** Leia `analises/02-checklist-por-nicho.md` para escolher o nicho e `analises/03-boas-praticas-producao.md` para montar o fluxo de produção.
 - **Vai pedir o YPP?** Rode `templates/analise-de-canal.md` no canal inteiro.
 - **Vai publicar um vídeo?** Use `templates/checklist-pre-publicacao.md`.
+- **Canal suspenso do YPP?** Veja `diretrizes/08-desmonetizacao-e-recuperacao.md` e o caso em `casos/2026-rede-historias/`.
 - **Recebeu reivindicação ou ícone amarelo?** Veja `diretrizes/05-direitos-autorais.md` e `diretrizes/06-diretrizes-anunciantes.md`.
 
 ## Como atualizar

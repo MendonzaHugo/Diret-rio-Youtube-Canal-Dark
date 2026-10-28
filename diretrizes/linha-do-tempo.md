@@ -13,7 +13,8 @@
 | 15/07/2025 | "Conteúdo repetitivo" passa a ser descrito como **conteúdo inautêntico**; foco em conteúdo produzido em massa | `03` | 🟡 |
 | jul/2025 | Rene Ritchie esclarece: reação/clipes/comentário não são o alvo; política de conteúdo reutilizado inalterada | `02`, `03` | 🟡 |
 | jan/2026 | 16 canais de "AI slop" encerrados (≈35 mi de inscritos somados) | `03` | 🟡 |
-| 16/07/2026 | Orientação divide conteúdo inautêntico em 3 categorias: genérico/template, insatisfatório/desagradável, personas de IA em temas sensíveis. Aplicação no nível do canal. | `03`, `04` | 🟡 |
+| abr/2026 | Studio já mostra "genérico ou repetitivo", "insatisfatório ou desagradável" e "suspensão por canal relacionado" como motivos de suspensão do YPP. Canais em contas de e-mail diferentes são ligados ao mesmo operador. | `03`, `08` | ✅ Studio |
+| 16/07/2026 | Orientação pública divide conteúdo inautêntico em 3 categorias: genérico/template, insatisfatório/desagradável, personas de IA em temas sensíveis. Aplicação no nível do canal. **Correção:** as duas primeiras já eram aplicadas desde abr/2026; julho foi um esclarecimento público. | `03`, `04` | 🟡 |
 | set/2026 | Relato de regras de tempo para violência em vídeos de games (anúncios) | `06` | ⚠️ |
 | 10/08/2026 (?) | Suposto anúncio de reformulação do YPP com vigência em 01/02/2027 — fonte única | `01` | ⚠️ |
 

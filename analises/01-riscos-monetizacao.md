@@ -27,6 +27,9 @@ Probabilidade × impacto para os padrões mais comuns em canais dark.
 | R11 | Clipes curtos de filmes/séries para ilustrar narração original | Direitos autorais | Média | Reivindicação ou strike | 🟡 Médio |
 | R12 | Canal com vídeos antigos fracos misturados com vídeos novos bons | Revisão do YPP é por canal | Média | Reprovação no pedido | 🟡 Médio |
 | R13 | Voz de IA em roteiro próprio com visuais variados e editados | — | Baixa | — | 🟢 Baixo |
+| R14 | Mesmo formato replicado em vários canais/idiomas/contas pelo mesmo operador | Inautêntico + canal relacionado + Spam | Alta | **Todos os canais do operador** perdem a monetização; risco de encerramento | 🔴 Crítico |
+
+> R14 foi documentado em um caso real: `casos/2026-rede-historias/`. Contas de e-mail diferentes **não** separam canais do mesmo operador.
 
 ## Sinais que um revisor provavelmente usa
 
