@@ -72,7 +72,7 @@ Canais das contas A e C foram tratados como do mesmo operador. Para o YouTube, t
 | Canal | Ação | Motivo |
 |---|---|---|
 | **Ispovijesti Srca** | **Reconstruir** (ver `plano-reconstrucao.md`) | Provável canal de origem. Se voltar ao YPP, libera os canais relacionados. Tem o maior número de inscritos. |
-| Odwaga Kobiet | Congelar. Reavaliar depois do resultado do Ispovijesti Srca. | Suspensão própria com motivo subjetivo, difícil de demonstrar que foi corrigido |
+| Odwaga Kobiet | Congelar e consultar o suporte. Provavelmente precisará ser reconstruído **junto** com o Ispovijesti Srca. | Segunda suspensão própria ativa. Pode gerar suspensão por canal relacionado nos outros canais do operador, inclusive num Ispovijesti Srca já aprovado (ver `plano-reconstrucao.md`) |
 | Naša Sjećanja | Congelar | Depende do canal de origem |
 | Гласовете на времето | **Não conectar o AdSense.** Congelar. | Conectar agora quase certamente resulta em "canal relacionado" |
 | Vrouwenverhalen, Нашият път, Historie Joanny, Vergeten Levens | Parar de publicar no modelo atual. Não pedir o YPP. | Reforçam o sinal de rede e aumentam o risco de spam |

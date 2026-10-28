@@ -8,7 +8,19 @@
 
 **Expectativa:** não há garantia. O revisor sabe da ligação com a rede. A chance só é razoável se a mudança estiver **visível no canal**: nos vídeos públicos, na identidade visual e nos metadados.
 
-## Fase 0 — Congelar a rede (semana 0)
+## ⚠️ Risco de "canal relacionado" mesmo depois de aprovado
+
+Há **duas** suspensões próprias ativas na rede: **Ispovijesti Srca** e **Odwaga Kobiet**. A tela do Odwaga Kobiet avisa: "Se você não contestar a suspensão deste canal, outros canais que você opera também correm o risco de serem suspensos do YPP." O prazo para contestar já venceu.
+
+Mesmo que o Ispovijesti Srca seja aprovado, ele **pode ser suspenso de novo como relacionado** ao Odwaga Kobiet. Nem as fontes oficiais nem as de terceiros dizem como o YouTube trata um operador com duas origens suspensas. Por isso:
+
+1. **Antes de começar**, perguntar ao Suporte para Criadores ou à Comunidade de Ajuda do YouTube se a suspensão ativa do Odwaga Kobiet afetaria o Ispovijesti Srca aprovado.
+2. **Sem resposta clara**, tratar **as duas origens**: reconstruir também o Odwaga Kobiet, com formato próprio e diferente do Ispovijesti Srca, e pedir a inscrição dos dois em datas próximas.
+3. **Não excluir o Odwaga Kobiet** como atalho. Não há confirmação de que excluir o canal encerra a suspensão, a exclusão é irreversível e pode ser vista como tentativa de contornar a punição.
+
+## Fase 0 — Congelar a rede e consultar o YouTube (semana 0)
+
+- [ ] Enviar a pergunta acima ao suporte do YouTube e registrar a resposta aqui.
 
 - [ ] Parar de publicar no modelo atual em **todos** os outros canais (ver `diagnostico.md`, seção 5).
 - [ ] Não conectar o AdSense ao Гласовете на времето.
